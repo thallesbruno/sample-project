@@ -4,4 +4,5 @@ public class Produto {
     long id;
     Date dataDeFabricacao;
     String nome;
+    String categoria;
 }
