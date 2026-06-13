@@ -1,3 +1,7 @@
+import java.sql.Date;
+
 public class Produto {
-    int id;
+    long id;
+    Date dataDeFabricacao;
+    String nome;
 }
